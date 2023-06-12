@@ -1,9 +1,11 @@
 using System.Text;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using PenaltyCalculation.Models;
 // using PenaltyCalculation.Models;
 using PenaltyCalculation.Repos;
 using PenaltyCalculation.Services;
+//using PenaltyCalculation.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,7 +20,6 @@ builder.Services.AddDbContext<PenaltyCalculationDBContext>(options => {
 });
 
 builder.Services.AddScoped<IPenaltyRepository, PenaltyRepository>();
-// builder.Services.AddScoped<IPenaltyRepository, MockPenaltyRepository>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 

@@ -1,6 +1,7 @@
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using PenaltyCalculation.Models;
 // using PenaltyCalculation.Models;
 using PenaltyCalculation.Repos;
 using PenaltyCalculation.Services;

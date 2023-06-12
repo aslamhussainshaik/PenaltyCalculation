@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-// using PenaltyCalculation.Models;
-using PenaltyCalculation.Repos;
+using PenaltyCalculation.Models;
 
 namespace PenaltyCalculation.Services
 {

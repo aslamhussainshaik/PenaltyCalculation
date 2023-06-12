@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aslamsha\\TodoApi2\\PenaltyCalculation\\PenaltyCalculation.csproj": {}
+    "C:\\Users\\aslamsha\\Hackathon\\PenaltyCalculation\\PenaltyCalculation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aslamsha\\TodoApi2\\PenaltyCalculation\\PenaltyCalculation.csproj": {
+    "C:\\Users\\aslamsha\\Hackathon\\PenaltyCalculation\\PenaltyCalculation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aslamsha\\TodoApi2\\PenaltyCalculation\\PenaltyCalculation.csproj",
+        "projectUniqueName": "C:\\Users\\aslamsha\\Hackathon\\PenaltyCalculation\\PenaltyCalculation.csproj",
         "projectName": "PenaltyCalculation",
-        "projectPath": "C:\\Users\\aslamsha\\TodoApi2\\PenaltyCalculation\\PenaltyCalculation.csproj",
+        "projectPath": "C:\\Users\\aslamsha\\Hackathon\\PenaltyCalculation\\PenaltyCalculation.csproj",
         "packagesPath": "C:\\Users\\aslamsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aslamsha\\TodoApi2\\PenaltyCalculation\\obj\\",
+        "outputPath": "C:\\Users\\aslamsha\\Hackathon\\PenaltyCalculation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aslamsha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -20,6 +20,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -88,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
